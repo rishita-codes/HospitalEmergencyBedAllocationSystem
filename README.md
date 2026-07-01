@@ -223,15 +223,3 @@ CMD ["npm", "start"]
 ```
 DATABASE_URL=postgresql://postgres:your_password_here@localhost:5432/hospital_db
 ```
-
-## Quick contributor checklist
-
-- [ ] Pull latest `main` branch
-- [ ] Add or edit source files (avoid binaries)
-- [ ] Update `server/.env` locally (do not commit)
-- [ ] Run tests and verify builds
-- [ ] Push branch and open a pull request with a clear description
-
-## License
-
-This project is licensed under the MIT License.
