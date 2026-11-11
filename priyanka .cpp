@@ -1,0 +1,1 @@
+we have designed a project named hospital bed allocation system in which we have worked upon c++,java,react ,backened,frontend ,startin with hash api and continuing with this we have completed the project in hospitla allocation 
